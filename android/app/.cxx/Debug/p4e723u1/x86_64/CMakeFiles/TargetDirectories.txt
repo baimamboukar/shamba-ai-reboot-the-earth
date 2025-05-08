@@ -1,0 +1,2 @@
+C:/Users/STUDENT/Desktop/ReebootTheEarth/shamba/android/app/.cxx/Debug/p4e723u1/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/STUDENT/Desktop/ReebootTheEarth/shamba/android/app/.cxx/Debug/p4e723u1/x86_64/CMakeFiles/rebuild_cache.dir
