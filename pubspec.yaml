@@ -9,7 +9,7 @@ environment:
 dependencies:
   action_slider: ^0.7.0
   auto_route: ^10.0.1
-  bloc: ^8.1.4
+  bloc: ^9.0.0
   bottom_sheet: ^4.0.4
   bottom_sheet_bar: ^2.3.10
   camerawesome: ^2.3.0
@@ -19,7 +19,7 @@ dependencies:
   flex_seed_scheme: ^3.5.1
   flutter:
     sdk: flutter
-  flutter_bloc: ^8.1.6
+  flutter_bloc: ^9.1.1
   flutter_gemini: ^3.0.0
   flutter_heatmap_calendar: ^1.0.5
   flutter_hicons: ^1.0.0
@@ -32,7 +32,7 @@ dependencies:
   google_fonts: ^6.2.1
   google_generative_ai: ^0.4.7
   heroicons: ^0.11.0
-  hydrated_bloc: ^9.1.5
+  hydrated_bloc: ^10.0.0
   iconly: ^1.0.1
   image_picker: ^1.1.2
   image_stack: ^2.1.1
@@ -50,7 +50,7 @@ dependencies:
 
 dev_dependencies:
   auto_route_generator: ^10.0.1
-  bloc_test: ^9.1.7
+  bloc_test: ^10.0.0
   build_runner: ^2.4.15
   fast_i18n: ^5.12.6
   flutter_test:
