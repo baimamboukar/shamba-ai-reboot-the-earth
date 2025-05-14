@@ -12,7 +12,7 @@ dependencies:
   bloc: ^8.1.4
   bottom_sheet: ^4.0.4
   bottom_sheet_bar: ^2.3.10
-  camerawesome: ^2.3.0
+  camerawesome: ^2.4.0
   collection: ^1.19.1
   dartz: ^0.10.1
   dotted_border: ^2.1.0
