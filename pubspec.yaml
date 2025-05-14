@@ -44,7 +44,7 @@ dependencies:
   pinput: ^5.0.1
   shadow_overlay: ^1.0.5
   swipe_refresh: ^1.1.2
-  syncfusion_flutter_charts: ^29.1.40
+  syncfusion_flutter_charts: ^29.2.4
   syncfusion_flutter_gauges: ^29.1.40
   url_launcher: ^6.3.1
 
